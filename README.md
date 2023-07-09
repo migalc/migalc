@@ -8,18 +8,13 @@ I am a Software Engineer with years of experience in iOS development, going the 
 
 Currently working for [Bliss Applications](https://www.blissapplications.com/). 
 
-You can also check my professional profile: [malcantarabliss](https://github.com/malcantarabliss/)
-
 ## Socials:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/miguel-p-alcantara">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/mrpcalcantara">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://github.com/malcantarabliss">
+  <a href="https://github.com/migalc">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://medium.com/@mrpcalcantara">
