@@ -47,9 +47,7 @@ Currently working for <a href="https://wallapop.com/"><img src= "https://es.wall
 
 [App Store](https://apps.apple.com/gb/app/photobox-photo-books-prints/id574408353)
 
-
-
-
+---
 ### O Meu Pingo Doce:
 
 <img src= "https://play-lh.googleusercontent.com/-KY7h2o5K2v9RgHpT_AGus3CfkE9FqEyGpxqGhLApkjt1RR_7m83pHM8tA2nWnYXNUnb" height="80"/>
