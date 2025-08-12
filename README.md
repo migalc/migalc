@@ -6,7 +6,7 @@
 
 I am a Software Engineer with years of experience in iOS development, going the extra mile to ensure the projects are on-time, on-budget and on-target.
 
-Currently working for [Storio Group](https://www.storiogroup.com/). 
+Currently working for <a href="https://wallapop.com/"><img src= "https://es.wallapop.com/next-assets/images/logo-wallapop-home-v2.svg" height="80"/></a>
 
 ## Socials:
 
@@ -26,6 +26,29 @@ Currently working for [Storio Group](https://www.storiogroup.com/).
 </div>
 
 ## Projects worked on:
+
+### Storio Group:
+
+<img src= "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/b1/8a/f6b18a31-5605-2dea-08a7-2521757732c9/AppIconHofmann-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/460x0w.webp" height="80"/>
+
+[Website](https://www.hofmann.es/)
+
+[App Store](https://apps.apple.com/es/app/hofmann-%C3%A1lbumes-de-fotos/id891707074)
+
+<img src= "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/3f/56/e43f56c9-a437-74cf-358d-97cb3e54635b/AppIconAlbelli-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/460x0w.webp" height="80"/>
+
+[Website](https://www.albelli.nl/)
+
+[App Store](https://apps.apple.com/be/app/albelli-fotoboek-poster-prints/id1049668862)
+
+<img src= "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3b/f4/5c3bf4a1-7293-f438-4076-201d46c45cd4/AppIconPhotobox-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/460x0w.webp" height="80"/>
+
+[Website](https://www.photobox.co.uk/)
+
+[App Store](https://apps.apple.com/gb/app/photobox-photo-books-prints/id574408353)
+
+
+
 
 ### O Meu Pingo Doce:
 
