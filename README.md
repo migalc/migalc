@@ -68,18 +68,11 @@ Currently working for <a href="https://wallapop.com/"><img src= "https://es.wall
 ---
 ### MBWay
 
-<img src= "https://www.mbway.pt/wp-content/uploads/2020/07/Logo_MBWay@2x.png" height="80"/>
+<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBIFVVey4woYOE1GssFhYy-PWg003E98tcDA&s" height="80"/>
 
 [Website](https://www.mbway.pt/)
 
 [App Store](https://apps.apple.com/us/app/mb-way/id918126133)
-
----
-### Omknee
-
-<img src= "https://omknee.com/img/Logo/Landscape-black.png" height="80"/>
-
-[Website](https://omknee.com/)
 
 ---
 ### EDP re:dy
